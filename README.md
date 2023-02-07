@@ -16,4 +16,6 @@
 
 6) Click on "Fetch Data" and all the correct data (grouped by, filtered, and sorted) should appear!
 
+#### If you have any questions or follow-up comments, don't hesitate to reach out to me!
+
 
