@@ -110,9 +110,6 @@ public class MainActivity extends AppCompatActivity {
             });
 
             for (int i = 0; i < json_objects.size(); i++){
-//                Log.d("listId", json_objects.get(i).getString("listId"));
-//                Log.d("name", json_objects.get(i).getString("name"));
-//                Log.d("nameType", json_objects.get(i).getString("name").getClass().getName());
                 String listIDVar, nameVar;
                 int idVar = json_objects.get(i).getInt("id");
                 listIDVar = json_objects.get(i).getString("listId");
